@@ -1,4 +1,2 @@
 # DEA-prueba
-una prueba de repositorio
-bghghjjjyujk
-a ver si se ve en github
+una prueba de repositorio para hacer un análisis de expresión diferencial utilizando EdgeR
